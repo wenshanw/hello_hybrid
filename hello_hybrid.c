@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "mpi.h"
 #include <omp.h>
-//test test
+//test
+//another change
 
 int main(int argc, char *argv[]) {
   int numprocs, rank, namelen;
